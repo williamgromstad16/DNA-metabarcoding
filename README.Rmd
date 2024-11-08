@@ -33,33 +33,9 @@ This study was performed on 12 sites positioned throughout southeastern Norway s
 
 Samples were homogenized and DNA extracted using a modified CTAB protocol, then stored in -80°C. The COI gene using the primer pair BF3/BR2 (421 bp) from the DNA extracts. Illumina Miseq sequencing at StarSeq was used, and the sequences underwent bioinformatic sequencing as in <https://doi.org/10.1098/rspb.2021.2622>. Sequences were matched against the NCBI and BOLD databases.
 
-<<<<<<< HEAD
+
 # Data and file overview
 Lots of good info here 
 
 # Data-specific information
 
-
-=======
->>>>>>> da2bb477eba7b6eccb9685a3a33308eb81c5c591
-<!-- badges: start -->
-
-<!-- badges: end -->
-
-The goal of DNA metabarcoding is to ...
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
