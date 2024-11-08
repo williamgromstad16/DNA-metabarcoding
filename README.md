@@ -38,12 +38,15 @@ StarSeq was used, and the sequences underwent bioinformatic sequencing
 as in <https://doi.org/10.1098/rspb.2021.2622>. Sequences were matched
 against the NCBI and BOLD databases.
 
+<<<<<<< HEAD
 # Data and file overview
 
 Lots of good info here
 
 # Data-specific information
 
+=======
+>>>>>>> da2bb477eba7b6eccb9685a3a33308eb81c5c591
 <!-- badges: start -->
 <!-- badges: end -->
 
